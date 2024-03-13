@@ -1,0 +1,6 @@
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/bin/Debug/Geometrie.BLL.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/bin/Debug/Geometrie.BLL.pdb
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/obj/Debug/Geometrie.BLL.csproj.AssemblyReference.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/obj/Debug/Geometrie.BLL.csproj.CoreCompileInputs.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/obj/Debug/Geometrie.BLL.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/obj/Debug/Geometrie.BLL.pdb

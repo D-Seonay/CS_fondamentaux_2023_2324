@@ -1,0 +1,6 @@
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/LesBasesDuCS/bin/Debug/LesBasesDuCS.exe
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/LesBasesDuCS/bin/Debug/LesBasesDuCS.pdb
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/LesBasesDuCS/obj/Debug/LesBasesDuCS.csproj.AssemblyReference.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/LesBasesDuCS/obj/Debug/LesBasesDuCS.csproj.CoreCompileInputs.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/LesBasesDuCS/obj/Debug/LesBasesDuCS.exe
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/LesBasesDuCS/obj/Debug/LesBasesDuCS.pdb

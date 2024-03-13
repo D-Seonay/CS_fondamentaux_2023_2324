@@ -1,0 +1,9 @@
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL.Console/obj/Debug/Geometrie.BLL.Console.csproj.AssemblyReference.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL.Console/obj/Debug/Geometrie.BLL.Console.csproj.CoreCompileInputs.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL.Console/bin/Debug/Geometrie.BLL.Console.exe
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL.Console/bin/Debug/Geometrie.BLL.Console.pdb
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL.Console/bin/Debug/Geometrie.BLL.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL.Console/bin/Debug/Geometrie.BLL.pdb
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL.Console/obj/Debug/Geometrie.BLL.Console.csproj.CopyComplete
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL.Console/obj/Debug/Geometrie.BLL.Console.exe
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL.Console/obj/Debug/Geometrie.BLL.Console.pdb
