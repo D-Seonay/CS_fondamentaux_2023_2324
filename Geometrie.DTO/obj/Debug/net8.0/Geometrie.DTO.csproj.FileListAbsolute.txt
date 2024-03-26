@@ -1,0 +1,12 @@
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/bin/Debug/net8.0/Geometrie.DTO.deps.json
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/bin/Debug/net8.0/Geometrie.DTO.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/bin/Debug/net8.0/Geometrie.DTO.pdb
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/Debug/net8.0/Geometrie.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/Debug/net8.0/Geometrie.DTO.AssemblyInfoInputs.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/Debug/net8.0/Geometrie.DTO.AssemblyInfo.cs
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/Debug/net8.0/Geometrie.DTO.csproj.CoreCompileInputs.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/Debug/net8.0/Geometrie.DTO.sourcelink.json
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/Debug/net8.0/Geometrie.DTO.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/Debug/net8.0/refint/Geometrie.DTO.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/Debug/net8.0/Geometrie.DTO.pdb
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/Debug/net8.0/ref/Geometrie.DTO.dll

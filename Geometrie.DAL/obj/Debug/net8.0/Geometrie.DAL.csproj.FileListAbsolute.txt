@@ -1,0 +1,14 @@
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/Geometrie.DAL.csproj.AssemblyReference.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/Geometrie.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/Geometrie.DAL.AssemblyInfoInputs.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/Geometrie.DAL.AssemblyInfo.cs
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/Geometrie.DAL.csproj.CoreCompileInputs.cache
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/Geometrie.DAL.sourcelink.json
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/bin/Debug/net8.0/Geometrie.DAL.deps.json
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/bin/Debug/net8.0/Geometrie.DAL.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/bin/Debug/net8.0/Geometrie.DAL.pdb
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/Geometrie.DAL.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/refint/Geometrie.DAL.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/Geometrie.DAL.pdb
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/Debug/net8.0/ref/Geometrie.DAL.dll
+/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/bin/Debug/net8.0/app.json

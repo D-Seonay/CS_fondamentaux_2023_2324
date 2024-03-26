@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.Service/Geometrie.Service.csproj": {}
+  },
+  "projects": {
+    "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/Geometrie.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/Geometrie.BLL.csproj",
+        "projectName": "Geometrie.BLL",
+        "projectPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/Geometrie.BLL.csproj",
+        "packagesPath": "/Users/seonay/.nuget/packages/",
+        "outputPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seonay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/Geometrie.DAL.csproj": {
+                "projectPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/Geometrie.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/Geometrie.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/Geometrie.DAL.csproj",
+        "projectName": "Geometrie.DAL",
+        "projectPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/Geometrie.DAL.csproj",
+        "packagesPath": "/Users/seonay/.nuget/packages/",
+        "outputPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seonay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/Geometrie.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/Geometrie.DTO.csproj",
+        "projectName": "Geometrie.DTO",
+        "projectPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/Geometrie.DTO.csproj",
+        "packagesPath": "/Users/seonay/.nuget/packages/",
+        "outputPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seonay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.Service/Geometrie.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.Service/Geometrie.Service.csproj",
+        "projectName": "Geometrie.Service",
+        "projectPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.Service/Geometrie.Service.csproj",
+        "packagesPath": "/Users/seonay/.nuget/packages/",
+        "outputPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seonay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/Geometrie.BLL.csproj": {
+                "projectPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.BLL/Geometrie.BLL.csproj"
+              },
+              "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/Geometrie.DTO.csproj": {
+                "projectPath": "/Users/seonay/RiderProjects/CS_fondamentaux_2023_2324/Geometrie.DTO/Geometrie.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

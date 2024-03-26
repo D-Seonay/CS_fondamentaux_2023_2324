@@ -1,4 +1,8 @@
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Geometrie.BLL
 {
@@ -6,25 +10,25 @@ namespace Geometrie.BLL
     {
         public double Rayon { get; private set; }
         public Point Centre { get; private set; }
-        
-        public Cercle(Point centre, double rayon)
+
+        /// <summary>
+        /// Constructeur par défaut d'un cercle
+        /// </summary>
+        /// <param name="rayon">Rayon du cercle</param>
+        /// <param name="centre"><see cref="Point"/> au centre du cercle</param>
+        public Cercle(double rayon, Point centre)
         {
-            Centre = centre;
             Rayon = rayon;
+            Centre = centre;
         }
-        
         public double CalculerAire()
         {
-            return Math.PI * Rayon * Rayon;
+            //pi*r^2
+            return Math.PI * Math.Pow(Rayon, 2);
         }
-        
-        public double CalculerPerimetre()
-        {
-            return 2 * Math.PI * Rayon;
-        }
-        
-        public override string ToString() => $"{Centre} - rayon = {Rayon}";
-            
-        
+
+        public double CalculerPerimetre() => 2 * Math.PI * Rayon;
+
+        public override string ToString() => $"{Centre}-{Rayon}";
     }
 }
